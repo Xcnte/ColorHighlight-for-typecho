@@ -1,8 +1,6 @@
 # ColorHighlight-for-typecho
 typecho代码高亮插件，支持显示行号，代码复制，需要Jq https://www.xcnte.com/archives/377/
 
-# ColorHighlight-for-Typecho
-
 基于 Highlight的代码语法高亮插件 for Typecho，可显示语言类型、行号，有复制代码到剪切板功能
 
 github开源地址：[https://github.com/Xcnte/ColorHighlight-for-typecho][1]
