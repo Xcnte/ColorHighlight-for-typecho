@@ -105,7 +105,7 @@ class ColorHighlight_Plugin implements Typecho_Plugin_Interface
     public static function footer() {
         $jsUrl = Helper::options()->pluginUrl . '/ColorHighlight/';
         echo '<script type="text/javascript" src="'. $jsUrl .'res/highlight.js?version=9.12.0">
-        </script><script type="text/javascript" src="'. $jsUrl .'guess.js"></script>';
+        </script><script type="text/javascript" src="'. $jsUrl .'guess.js"></script><script type="text/javascript" src="'. $jsUrl .'res/clipboard.min.js"></script>';
        
         echo '<script type="text/javascript">$("pre code").each(function(i, block) {hljs.highlightBlock(block);});';
       if(Typecho_Widget::widget('Widget_Options')->Plugin('ColorHighlight')->lines=='0'){	echo 'var l = $("pre code").find("ul").length;
