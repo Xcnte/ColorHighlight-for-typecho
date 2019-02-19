@@ -67,15 +67,13 @@ github开源地址：[https://github.com/Xcnte/ColorHighlight-for-typecho][1]
 [https://highlightjs.org/download/][4]
 
 
-**建议**
-
-决定长期更新该插件，如果有任何意见或发现任何BUG请联系我
-
 ## 与我联系
 
 作者：Xcnte
 
-有问题请到博客留言交流：[https://www.xcnte.com/archives/377/][5]
+如果有任何意见或发现任何BUG请联系我
+
+博客：[https://www.xcnte.com/archives/377/][5]
 
 
   [1]: https://github.com/Xcnte/ColorHighlight-for-typecho
