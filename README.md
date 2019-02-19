@@ -79,7 +79,7 @@ github开源地址：[https://github.com/Xcnte/ColorHighlight-for-typecho][1]
 
 
   [1]: https://github.com/Xcnte/ColorHighlight-for-typecho
-  [3]: https://ws4.sinaimg.cn/large/006Xmmmgly1g0bvlwxnrkj30l10ivjsb.jpg
+  [3]: https://ws1.sinaimg.cn/large/006Xmmmgly1g0bxd8uogjj31hc0u049i.jpg
   [4]: https://highlightjs.org/download/
   [5]: https://www.xcnte.com/archives/377/
   [6]: https://ws4.sinaimg.cn/large/006Xmmmgly1g0bvmkyoztj319w0na795.jpg
