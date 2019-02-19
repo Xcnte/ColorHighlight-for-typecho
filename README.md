@@ -27,7 +27,7 @@ github开源地址：[https://github.com/Xcnte/ColorHighlight-for-typecho][1]
 **代码写法**
 
 \```php
-\<?php echo 'hello jrotty!'; ?>
+代码
 \```
 
 
