@@ -6,9 +6,8 @@ pre:before {
 	background:#fc625d;
 	width:12px;
 	height:12px;
-	left:20px;
-	top:13px;
-	margin-top:4px;
+	left:10px;
+	top:10px;
 	-webkit-box-shadow:20px 0 #fdbc40,40px 0 #35cd4b;
 	box-shadow:20px 0 #fdbc40,40px 0 #35cd4b;
 	z-index:2
@@ -17,10 +16,10 @@ pre {
 	background:#21252b;
 	border-radius:5px;
 	font:15px/22px"Microsoft YaHei",Arial,Sans-Serif;
-	line-height:1.6;
+	line-height:1.4;
 	margin-bottom:1.6em;
 	max-width:100%;
-	overflow:auto;
+	overflow:;
 	text-shadow:none;
 	color:#000;
 	box-shadow:0 10px 30px 0 rgba(0,0,0,.4)
@@ -89,7 +88,7 @@ pre code[data-rel]:before {
 	overflow-x:auto;
 	padding:.5em;
 	color:#abb2bf;
-	background:#282c34
+	background:#282c34;
 }
 .hljs-comment,.hljs-quote {
 	color:#5c6370;
@@ -173,7 +172,7 @@ pre .content{
     position: relative;
 }
 #post-content .code-block-fullscreen{
-    padding-top: 38px;
+    padding-top: 34px;
     position:fixed;
     width: 80vw;
     height: 80vh;
