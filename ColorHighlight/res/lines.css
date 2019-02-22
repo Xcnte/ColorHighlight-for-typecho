@@ -15,7 +15,7 @@
 }
 pre code ul {
     list-style: decimal;
-    margin: 0px 0px 0 40px !important;
+    margin: 0px 0px 0 35px !important;
     padding: 0px;
     font-size: 14px;
   	color: #F5F5F5;
@@ -89,7 +89,7 @@ pre,article pre{
     padding: 0;
     margin-left: 2px;
     background: #161616;
-    min-height: 100%;    position: relative;    padding-top: 38px;    overflow-y: hidden;
+    min-height: 100%;    position: relative;    padding-top: 30px;    overflow-y: hidden;
 }
 
 .btn-copy-code {
@@ -99,8 +99,8 @@ pre,article pre{
 	color:#ddd;
 	background-color:transparent;
 	right:6px;
-	top:8px;
-	font-size:12px;
+	top:4px;
+	font-size:10px;
 	line-height:12px;
 	padding:3px 5px;
 	border:1px solid;
