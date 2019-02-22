@@ -42,6 +42,11 @@ github开源地址：[https://github.com/Xcnte/ColorHighlight-for-typecho][1]
 
 ![代码窗口化.png][6]
 
+2019-2-22
+
+更改了样式显示效果，具体进入我的博客查看
+博客地址在下方
+
 ## 重要说明
 
 ### 可设置项
